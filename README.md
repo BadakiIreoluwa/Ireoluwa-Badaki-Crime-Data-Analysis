@@ -23,3 +23,8 @@ This project aims to perform an exploratory data analysis of street-level crime 
 - [Invite To the Trello Link](https://trello.com/invite/b/69b13536b6dfe7e18ea92c02/ATTI93e249e2861027582b4cdda467a972b66B37D6E5/crime-data-analysis)
 
 - [GitHub Repo](https://github.com/BadakiIreoluwa/Ireoluwa-Badaki-Crime-Data-Analysis)
+
+
+## Notes
+
+- The data folder is not included in this GitHub Repo and should be obtained from the SharePoint Folder
